@@ -14,6 +14,8 @@
 - **project idea**: do a network analysis of your collaborative works at NCSU. Pulling out projects and teams to show the collaborations you've been doing
 - maybe check out the [SemanticWeb plugin](https://github.com/gephi/gephi/wiki/SemanticWebImport) for Gephi
   - this plugin is already in Tools > Plugins of Gephi
+- now that you have a general set of data science skills, what are your specializations?
+  - examples: SEO, semantic web, data modeling, [add more]
 
 ## Questions to self
 
